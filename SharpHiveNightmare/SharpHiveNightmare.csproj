@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{351F89D0-77CC-4BF3-BCC5-19CB6B64DCD9}</ProjectGuid>
+    <ProjectGuid>{3A803844-4781-4982-96A6-956BB7633F4E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>HiveNightmare</RootNamespace>
-    <AssemblyName>HiveNightmare</AssemblyName>
+    <RootNamespace>SharpHiveNightmare</RootNamespace>
+    <AssemblyName>SharpHiveNightmare</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
